@@ -1,0 +1,18 @@
+#+TITLE: My M.D. Thesis Journey
+
+* Topic Ideas
+
+** Endocrinology
+
++ A method for quantification of Insulin resistance.
++ Comparison of c-peptide in PCOS vs non-PCOS as a pathophysiological basis for.
+  the difference between PCOS and T2DM.
++ Hypovitaminosis D and NASH relationship.
++ Long standing Insulin resistance symptoms vs short standing Insulin resistance symptoms.
+
+** Pediatrics
+
++ Aromatase inhibitors in precocious puberty as a method to delaying epiphyseal
+  clojure.
++ Efficaicy of GnRH agonists and down-regulation of HPG axis in obese vs
+  non-obese children.
