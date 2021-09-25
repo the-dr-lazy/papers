@@ -16,3 +16,8 @@
   clojure.
 + Efficaicy of GnRH agonists and down-regulation of HPG axis in obese vs
   non-obese children.
+
+*** Cardiology
+
++ Impact of treatment of metabolic syndrome and hypertension in younger patients
+  on intermediate/surrogate disease markers.
