@@ -1,0 +1,54 @@
+#+title: Proposal: Obesity and Smaller Testes
+#+subtitle:
+#+email: the-dr-lazy@pm.me
+#+author: Mohammad Hasani, MD
+#+cite_export: csl american-medical-association.csl
+#+language: en
+#+OPTIONS: toc:nil
+
+#+begin_center
+Supervisor
+#+end_center
+
+Sosan Jafarian, Pediatrician, Department of Pediatrics, Faculty of Medicine, School of Medicine, Shahroud Azad University, Semnan, Iran
+
+#+begin_center
+Mentors
+#+end_center
+
+1. Abbas Tavakolian Arjmand, Internist, Endocrinologist, Department of Internal Medicine, Faculty of Medicine, School of Medicine, Shahroud Azad University, Semnan, Iran
+2. Ahmad Khosravi, Epidemiologist, Department of Social Medicine, Faculty of Medicine, Shahroud University of Medical Sciences, Semnan, Iran
+
+#+TOC: headlines
+
+\break
+
+* Introduction
+We are in a pandemic of metabolic syndrome[cite:@grundyMetabolicSyndromePandemic2008];
+Meanwhile, infertility has risen dramatically, and sperm count has declined 50-60% in the past 40 years worldwide[cite:@levineTemporalTrendsSperm2017 page 654].
+Beyond the fertility concerns, studies suggested reduced sperm count predicts increased all-cause mortality and morbidity[cite:@jensenGoodSemenQuality2009 page 560-561].
+Recent data show increasingly that at population level and in infertile couples, obesity is associated with reduced male fertility[cite:@hammoudImpactMaleObesity2008 page 902].
+On the other hand testicular volume is an *easy clinical marker* which generally is supposed to correlate well with semen quality and fertility[cite:@takiharaSignificanceTesticularSize1987 page 416].
+Based on these findings, if other studies confirm the relationship of obesity and testicular volume, it would be a good practice for pediatricians to begin routinely assessing testicular volume at all visits as is now done with height and weight, to identify early deflection of the testicular growth curve.
+
+* Review of The Literature
+A literature search with the string "obes* AND ((small* OR (low volume)) (testis OR testes))" on <2022-08-18 Thu> in the Google Scholar, PubMed, and Cochrane library databases was performed which didn't result in any study with exact aim[fn:1].
+F search with the same stringurther investigation in the Google search engine on <2022-08-18 Thu> led to a conference news article at Medscape mentioning a session from ENDO 2022 conference at <2022-06-12 Sun 11:00>.
+Full text of all documents reviewed throughly and carefully on <2022-08-19 Fri> to provide a research foundation in the topic.
+
+According to a study by Cannarella et al. on 264 male children and adolescents, testicular volume was lower and start of puberty was delayed in those with overweight or obesity compared with normal weight[cite:@ObesityLinkedSmaller].
+Recent Italian studies shown 14-23% of young men aged 18-19 had testicular hypotrophy without a clear reason[cite:@ObesityLinkedSmaller]!
+Obesity has been proposed to affect male fertility both directly and indirectly, by inducing alterations in sleep and sexual behavior, hormonal profiles, scrotal temperatures and semen parameters[cite:@hammoudImpactMaleObesity2008 page 899-901;@duplessisEffectObesitySperm2010 page 157-158;].
+Obese males have higher circulating estrogen levels as a result of aromatization in the fat tissue which may be an important mechanism for the hypoandrogenemia and altered sperm parameters[cite:@hammoudImpactMaleObesity2008 page 902;@duplessisEffectObesitySperm2010 page 158;].
+
+As the literature review revealed, there is lack of enough studies around the relationship of obesity and testicular volume in children.
+Moreover, further longitudinal studies are needed to establish a possible cause-and-effect relationship[cite:@ObesityLinkedSmaller].
+Although there is evidence that weight reduction can correct hormonal imbalance in obese patients, but these data need to be complemented by studies showing the effect of weight loss on sperm parameters and fertility[cite:@hammoudImpactMaleObesity2008;@mongioiEffectivenessVeryLow2020;].
+* Reasearch Design and Methods
+Work in progress...
+* Conflicts of Interest
+No conflict of interest was declared.
+* Bibliography
+#+print_bibliography:
+
+[fn:1] Also a literature search through SID and Civilica with the persian translation of the topic performed which didn't result in any enhancement.
