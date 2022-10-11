@@ -1,0 +1,48 @@
+#+title: Literature Review: Obesity and Smaller Testes
+#+cite_export: csl american-medical-association.csl
+#+options: toc:nil author:nil
+#+language: en
+
+* Abstract
+* Introduction
+We are in pandemic of metabolic syndrome, the available evidence indicates that in most countries between 20% and 30% of the adult population has the metabolic syndrome[cite:@grundyMetabolicSyndromePandemic2008].
+Meanwhile infertility has risen and sperm count has declined 50-60% as well[cite:@levineTemporalTrendsSperm2017].
+Testicular size generally is supposed to correlate well with semen quality and fertility[cite:@sherinsr.j.CampbellUrologySection1978].
+
+#+begin_quote
+Testicular volume is a fertility marker directly related to sperm count that has halved in the past 40 years worldwide for unknown reasons.
+At the same time, childhood obesity has risen dramatically and infertility appears to have risen as well[cite:@ObesityLinkedSmaller]. --- Rossella Cannarella, MD, of the department of endocrinology and andrology, University of Catania, Italy, said during ENDO 2022: The Endocrine Society Annual Meeting
+#+end_quote
+
+Based on these findings if other studies confirm the results, it would be a good practice for pediatricians to begin routinely assessing testicular volume at all visits as is now done with height and weight, to identify early deflection of the testicular growth curve.
+Beyond the fertility concerns, studies suggested reduced sperm count predicts increased all-cause mortality and morbidity[cite:@jensenGoodSemenQuality2009].
+* Methods
+A literature search with the string "obesity and smaller testes" on <2022-08-19 Fri> in the Medscape database was performed which resulted in "Obesity Linked to Smaller Testes and Possible Infertility"[cite:@ObesityLinkedSmaller] conference news article and as a reference of the article found the "Temporal trends in sperm count: a systematic review and meta-regression analysis"[cite:@levineTemporalTrendsSperm2017] paper.
+Also a literature search with the string "obes* AND (small testes OR male infertility OR male subfertility OR low sperm count)" on <2022-08-19 Fri> in the Google Scholar database was performed which has been sorted by relevance and only review articles has been included which resulted in "Impact of male obesity on infertility: a critical review of the current literature"[cite:@hammoudImpactMaleObesity2008], "The effect of obesity on sperm disorders and male infertility"[cite:@duplessisEffectObesitySperm2010], and "High-fat diets reduce male reproductive success in animal models: A systematic review and meta-analysis"[cite:@creanHighfatDietsReduce2019] papers.
+A literature search through SID and Civilica didn't result in any related document.
+The full text of all documents readed throughly and carefully on <2022-08-19 Fri> to provide a basis of research in the topic.
+* Results
+** Obesity Linked to Smaller Testes and Possible Infertility[cite:@ObesityLinkedSmaller]
+In a study on 264 male children and adolescents which included 61 male with normal weight, 53 with overweigth, and 150 with obesity.
+Clinical data were collected retrospectively.
+Among the boys aged 9-14 years, those with overweight and obesity had significantly lower testicular volume compared with those of normal weight.
+In both the prepubertal (< 9 years) and pubertal (14-16 years) groups, hyperinsulinemia was associated with lower levels of testicular volume.
+
+According to recent Italian studies, between 14% and 23% of young men aged 18-19 had testicular hypotrophy. The reason isn't clear!
+** Temporal trends in sperm count: a systematic review and meta-regression analysis[cite:@levineTemporalTrendsSperm2017]
+The study conducted a systematic review and meta-regression analysis of articles that reported primary data on human sperm counts between <1981-01-01 Thu> (the first full year after the term ‘Sperm Count’ was added to MEDLINE as a MeSH term) and <2013-12-31 Tue> (the last full year at the time they began their MEDLINE search) and the meta-regression analysis was performed on 185 studies, which included 244 unique mean sperm concentration estimates based on samples collected between 1973 and 2011 from 42935 men.
+Data were available from 6 continents and 50 countries.
+The study showed sperm counts whether measured by sperm concentration (SC) or total sperm count (TSC) declined significantly among men from North America, Europe and Australia during 1973–2011, with a 50–60% decline among men unselected by fertility, with no evidence of a ‘leveling off’ in recent years.
+** Impact of male obesity on infertility: a critical review of the current literature[cite:@hammoudImpactMaleObesity2008]
+The study presented a critical analysis of literature linking obesity to male infertility.
+
+It is well known that increased testicular temperature to the level of body core temperature can severely alter spermatogenesis.
+Obesity is often associated with a lifestyle characterized by decreased physical activity with prolonged periods of sitting, which has been shown to affect sperm production by increasing local testicular temperature. This effect was demonstrated most in professions that require prolonged sitting, such as taxi drivers, and in paraplegic men [cite:@hammoudImpactMaleObesity2008 page 901].
+
+The study found in obese males, evidence suggests that increased estrogen as a result of aromatization in the fatty tissue may be an important mechanism for the hypoandrogenemia and altered sperm parameters.
+Also there is evidence that weight reduction can correct this hormonal imbalance; These data need to be complemented by studies showing the effect of weight loss on sperm parameters and fertility.
+** The effect of obesity on sperm disorders and male infertility [cite:@duplessisEffectObesitySperm2010]
+* Conflicts of Interest
+No conflict of interest was declared.
+* Bibliography
+#+print_bibliography:
