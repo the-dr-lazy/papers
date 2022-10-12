@@ -57,47 +57,39 @@ Although there are evidences that imply weight reduction can correct hormonal im
 
 * Research Design and Methods
 Among various types of correlational research methods we prefered to lead a cross-sectional study as it is the simplest, plausible, and fastest method to reveal a possible relationship between childhood obesity and testicular volume.
-However a cross-sectional study is unable to reveal a cause-and-effect relationship, but it provides initial indication and additional support for future studies.
+A cross-sectional study is unable to reveal a cause-and-effect relationship; however, it provides initial indication and additional support for future studies.
 
-Target research population are male children aged 8-11 in Shahroud, Semnan, Iran;
-Elementary schools in the city selected as the sampling frame.
-To collect sample, we will
-*1.* Select a convenient school randomly;
-*2.* Schedule an interview with the school principals to
-*3.* Schedule an interview with parents to explaining the research, encouraging them to participate in the research, and distributing the informed consent form between them;
-*4.* As long as necessary, we will back to *step 1* to collect enough sample.
-Due to lack of enough data, it is not possible to state a reasonable and pragmatic sample size prediction.
-To overcome this issue, we will direct a pilot research to obtain enough data and predict the sample size.
+Target research population are male children aged 8-11;
+Elementary schools in Shahroud, Semnan, Iran selected as the sampling frame.
+Sample collection will be done in a step-by-step manner as follows:
+1. Select a convenient school randomly;
+2. Schedule an interview with the school principals in order to arrange a session with parents to explain the research, encourage them to participate in the study, and distribute the informed consent form between them;
+3. If it is needed, we return to *step 1* to collect enough sample.
 
-** Sample Inclusion Criteria
-Participants must have willingness to participate in the study as the only inclusion criteria.
+Due to lack of data, it is not possible to predict a reasonable and pragmatic sample size.
+To overcome this issue, we direct a pilot research to obtain enough data and derive the sample size prediction.
 
-** Sample Exclusion Criteria
+We have considered following sample inclusion criteria:
++ Willingness to participate in the study;
++ Not to be underweight.
 As the study isn't longitudinal, there is no applicable exclusion criteria.
 
-** Data Collection
-1. Each participant will be invited to a free-charged pediatrician interview at the polyclinic of Khatam-al-Anbia hospital in Shahroud;
-2. A skilled research executive will take relevant history, including:
+To collect data, research executives will do the following steps:
+1. Invite each participant to a free-charged pediatrician interview at the polyclinic of Khatam-al-Anbia hospital in Shahroud;
+2. Take relevant history, including:
    + Identifying information;
    + Contact information;
    + Age;
    + School;
    # + Socio-economic status using which scale?;
-3. A skilled research executive will perform relevant physical examination, including:
+3. Perform relevant physical examination, including:
    + Height;
    + Weight using a standard and calibrated medical office weight scale;
    + Waist circumference using superior border of Iliac crest as the landmark and placing measuring tape parallel to the floor around the abdomen[cite:@nationalheartPracticalGuideIdentification2000 figure 3].;
    + Testicular volume using a standard Prader's orchidometer;
-4. Obtained data will be recorded.
+4. Record the obtained data.
 
-# ** Sample Grouping
-# The sample will be divided into three groups based on their BMI and/or waist circumference, including:
-# + Normal weight
-# + Overweight
-# + Obese
-
-** Data Analysis
-Data transfomration methods will be used as needed; \alpha=0.05;
+**Data analysis**: data transfomration methods will be used as needed; \alpha=0.05;
 
 #+LATEX: \renewcommand{\arraystretch}{1.5}
 
@@ -111,50 +103,38 @@ Data transfomration methods will be used as needed; \alpha=0.05;
 | Age                 | Confounding | Continuous quantitative | year      | N/A                                                                                                                                                                                     |
 | School              | Contextual  | Nominal                 | N/A       | N/A                                                                                                                                                                                     |
 
-# + Age: continuous quantitative
-# + Height: continuous quantitative (meter)
-# + Weight: continuous quantitative (kg)
-# + BMI: continuous quantitative (kg/meter^2)
-# + Waist circumference: continuous quantitative (cm)
-# + School: nominal
-# + Socio-economic status: ordinal
-# + Testicular volume: discrete quantitative (mL)
-
 #+caption: conceptual framework
 #+ATTR_LATEX: :placement [H] :center :width \linewidth
 [[file:./images/conceptual-framework.png]]
 
 * Research Objectives
-The general aim of this study is to determine possible relationship of childhood obesity and testicular volume.
-
-\noindent
-Speaking specifically:
-+ Measure testicular volume in obese group.
-+ Measure testicular volume in overweight group.
-+ Measure testicular volume in normal weight group.
-+ Compare testicular volume in obese, overweight, and normal weight groups.
+The general aim of this study is to determine possible relationship of childhood obesity and testicular volume. Specifically speaking:
++ Measuring testicular volume in obese group.
++ Measuring testicular volume in overweight group.
++ Measuring testicular volume in normal weight group.
++ Comparing testicular volume in obese, overweight, and normal weight groups.
 
 * Research Questions
 + How much is testicular volume in obese group?
 + How much is testicular volume in overweight group?
 + How much is testicular volume in normal weight group?
-+ What is difference of testicular volume in obese, overweight, and normal weight groups?
++ What is the difference of testicular volume in obese, overweight, and normal weight groups?
 
 * Research Hypothesis
 *H0*: There is no difference between testicular volume of normal weight, overweight, and obese children.
 
 \noindent
-*H1*: There is a difference between testicular volume of normal weight, overweight, and obese children.
+*H1*: There are differences between testicular volume of normal weight, overweight, and obese children.
 
-* Research Importance/Innovation?
+* Research Innovation
 This is one of the first coherent cross-sectional study to determine possible relationship of childhood obesity and testicular volume in Iran.
 
 * Beneficiaries
-+ Physicians;
-+ General population;
-+ Researchers in other disciplines;
-+ Academic organisations;
-+ Ministry of Health and Medical Education of Iran;
++ Physicians
++ General population
++ Researchers in other disciplines
++ Academic organisations
++ Ministry of Health and Medical Education of Iran
 
 * Conflicts of Interest
 No conflict of interest was declared.
@@ -167,4 +147,6 @@ infertility, sub-fertility, sterility,
 testicular volume.
 
 * Bibliography
+#+LATEX: \indent
+
 #+print_bibliography:
