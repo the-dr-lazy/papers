@@ -40,15 +40,15 @@ Based on these findings, if there be a relationship between obesity and testicul
 
 * Review of The Literature
 A literature search with the string "obes* AND ((small* OR (low volume)) AND (testis OR testes))" on <2022-08-18 Thu> in the Google Scholar, PubMed, and Cochrane library databases was performed which didn't result in any study with exact aim[fn:1].
-For further investigation search with the same string in the Google search engine on <2022-08-18 Thu> led to a conference news article at Medscape mentioning a session from ENDO 2022 conference at <2022-06-12 Sun 11:00>.
-Full text of all documents reviewed throughly and carefully on <2022-08-19 Fri> to provide a research foundation in the topic.
+For further investigation, a search with the same string in the Google search engine on <2022-08-18 Thu> led to a conference news article at Medscape mentioning a session from ENDO 2022 conference at <2022-06-12 Sun 11:00>.
+Full text of all documents reviewed thoroughly and carefully on <2022-08-19 Fri> to provide a research foundation in the topic.
 
 According to a study by Cannarella et al. on 264 male children and adolescents, testicular volume was lower and start of puberty was delayed in those with overweight or obesity compared with normal weight[cite:@ObesityLinkedSmaller].
 Recent Italian studies shown 14-23% of young men aged 18-19 had testicular hypotrophy without a clear reason[cite:@ObesityLinkedSmaller]!
 Obesity has been proposed to affect male fertility both directly and indirectly, by inducing alterations in sleep and sexual behavior, hormonal profile, scrotal temperature and semen parameters[cite:@hammoudImpactMaleObesity2008 page 899-901;@duplessisEffectObesitySperm2010 page 157-158;].
-Obese males have higher circulating estrogen level as a result of aromatization in the fat tissue which can be an important mechanism for the hypoandrogenemia and altered sperm parameters[cite:@hammoudImpactMaleObesity2008 page 902;@duplessisEffectObesitySperm2010 page 158;].
+Obese males have higher circulating estrogen level as a result of aromatization in the fat tissue, which can be an important mechanism for the hypoandrogenemia and altered sperm parameters[cite:@hammoudImpactMaleObesity2008 page 902;@duplessisEffectObesitySperm2010 page 158;].
 
-[fn:1] Also a literature search through SID, Civilica, and IranDoc with the persian translation of the topic performed which didn't result in any enhancement.
+[fn:1] Also, a literature search through SID, Civilica, and IranDoc with the Persian translation of the topic performed which didn't result in any enhancement.
 
 * Research Gaps
 As the literature review revealed, there is little established studies around the relationship of childhood obesity and testicular volume.
@@ -56,7 +56,7 @@ Moreover, further longitudinal studies are needed to establish a possible cause-
 Although there are evidences that imply weight reduction can correct hormonal imbalance in obese patients, but these data need to be complemented by studies showing the effect of weight loss on sperm parameters and fertility[cite:@hammoudImpactMaleObesity2008;@mongioiEffectivenessVeryLow2020;].
 
 * Research Design and Methods
-Among various types of correlational research methods we prefered to lead a cross-sectional study as it is the simplest, plausible, and fastest method to reveal a possible relationship between childhood obesity and testicular volume.
+Among various types of correlational research methods, we preferred to lead a cross-sectional study as it is the simplest, plausible, and fastest method to reveal a possible relationship between childhood obesity and testicular volume.
 A cross-sectional study is unable to reveal a cause-and-effect relationship; however, it provides initial indication and additional support for future studies.
 
 Target research population are male children aged 8-11;
@@ -69,7 +69,7 @@ Sample collection will be done in a step-by-step manner as follows:
 Due to lack of data, it is not possible to predict a reasonable and pragmatic sample size.
 To overcome this issue, we direct a pilot research to obtain enough data and derive the sample size prediction.
 
-We have considered following sample inclusion criteria:
+We have considered the following sample inclusion criteria:
 + Willingness to participate in the study;
 + Not to be underweight.
 As the study isn't longitudinal, there is no applicable exclusion criteria.
@@ -89,7 +89,7 @@ To collect data, research executives will do the following steps:
    + Testicular volume using a standard Prader's orchidometer;
 4. Record the obtained data.
 
-**Data analysis**: data transfomration methods will be used as needed; \alpha=0.05;
+**Data analysis**: data transformation methods will be used as needed; \alpha=0.05;
 
 #+LATEX: \renewcommand{\arraystretch}{1.5}
 
@@ -108,7 +108,7 @@ To collect data, research executives will do the following steps:
 [[file:./images/conceptual-framework.png]]
 
 * Research Objectives
-The general aim of this study is to determine possible relationship of childhood obesity and testicular volume. Specifically speaking:
+The general aim of this study is to determine the possible relationship of childhood obesity and testicular volume. Specifically speaking:
 + Measuring testicular volume in obese group.
 + Measuring testicular volume in overweight group.
 + Measuring testicular volume in normal weight group.
@@ -121,10 +121,10 @@ The general aim of this study is to determine possible relationship of childhood
 + What is the difference of testicular volume in obese, overweight, and normal weight groups?
 
 * Research Hypothesis
-*H0*: There is no difference between testicular volume of normal weight, overweight, and obese children.
+*H_0*: There is no difference between testicular volume of normal weight, overweight, and obese children.
 
 \noindent
-*H1*: There are differences between testicular volume of normal weight, overweight, and obese children.
+*H_1*: There are differences between testicular volume of normal weight, overweight, and obese children.
 
 * Research Innovation
 This is one of the first coherent cross-sectional study to determine possible relationship of childhood obesity and testicular volume in Iran.
@@ -133,14 +133,14 @@ This is one of the first coherent cross-sectional study to determine possible re
 + Physicians
 + General population
 + Researchers in other disciplines
-+ Academic organisations
++ Academic organizations
 + Ministry of Health and Medical Education of Iran
 
 * Conflicts of Interest
 No conflict of interest was declared.
 
 * Keywords
-Pediatric, child health, children's health, child well being,
+Pediatric, child health, children's health, child well-being,
 obesity, overweight,
 male,
 infertility, sub-fertility, sterility,
