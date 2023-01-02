@@ -1,4 +1,4 @@
-#+title: Childhood Obesity and Testicular Volume
+#+title: Effect of Metformin on Lactation in Metabolic Syndrome Animal Models
 #+subtitle:
 #+email: the-dr-lazy@pm.me
 #+author: Mohammad Hasani, MD
@@ -7,6 +7,8 @@
 #+options: toc:nil
 #+bind: org-latex-caption-above:nil
 #+LATEX_HEADER: \usepackage{float}
+#+LATEX_HEADER: \usepackage{multicol}
+#+LATEX_HEADER: \DeclareUnicodeCharacter{03B2}{\ensuremath{\beta}}
 
 \setcounter{secnumdepth}{0}
 
@@ -21,7 +23,7 @@ Sosan Jafarian, Pediatrician, Department of Pediatrics, Faculty of Medicine, Sch
 #+end_center
 
 1. Abbas Tavakolian Arjmand, Internist, Endocrinologist, Department of Internal Medicine, Faculty of Medicine, School of Medicine, Shahroud Azad University, Semnan, Iran
-2. Ahmad Khosravi, Epidemiologist, Department of Social Medicine, Faculty of Medicine, Shahroud University of Medical Sciences, Semnan, Iran
+2. Behrooz Yahyaei, Department of Medical Sciences, Faculty of Medicine, School of Medicine, Shahroud Azad University, Semnan, Iran
 
 \break
 
@@ -30,121 +32,113 @@ Sosan Jafarian, Pediatrician, Department of Pediatrics, Faculty of Medicine, Sch
 \break
 
 * Introduction
-Infertility has risen dramatically, and sperm count has declined 50-60% in the past 40 years worldwide[cite:@levineTemporalTrendsSperm2017 page 654].
-Beyond the fertility concerns, studies suggested reduced sperm count predicts increased all-cause mortality and morbidity[cite:@jensenGoodSemenQuality2009 page 560-561].
-Meanwhile, we are in a pandemic of obesity due to metabolic syndrome[cite:@grundyMetabolicSyndromePandemic2008] and studies at population level and infertile couples shows that the obesity is associated with reduced male fertility[cite:@hammoudImpactMaleObesity2008 page 902].
+Lactogenesis is the process of developing the ability to secrete milk and involves the maturation of alveolar cells[cite:@pillayPhysiologyLactation2022];
+It takes place in 2 stages: secretory initiation (stage I) and secretory activation (stage II)[cite:@pillayPhysiologyLactation2022].
+Stage II lactogenesis starts with copious milk production, usually, at days 2 or 3 postpartum[cite:@pillayPhysiologyLactation2022].
 
-Testicular volume is an *easy clinical marker* which generally is supposed to correlate well with semen quality and fertility[cite:@takiharaSignificanceTesticularSize1987 page 416].
+It is well established that mothers with insulin-resistant conditions such as pregestational and gestational diabetes, obesity, and polycystic ovary syndrome are at increased risk of delayed lactogenesis II and early cessation of breastfeeding[cite:@nommsen-riversDelayedOnsetLactogenesis2010;@nommsen-riversTimingStageII2012].
+Women diagnosed with low milk supply were significantly more likely to have had diabetes in pregnancy compared with women with any other lactation difficulty[cite:@riddleCaseControlStudy2016].
+A major contributor to excess newborn weight loss is delayed lactogenesis[cite:@chantryExcessWeightLoss2011].
 
-Based on these findings, if there be a relationship between obesity and testicular volume, it would be a good practice for pediatricians as a screening to begin routinely assessing testicular volume at all visits as is now done with height and weight, to **identify early deflection of the testicular growth curve**.
+Human milk is the optimal food for human infants, and provides many diverse and well described benefits for both mother and infant[cite:@riddleLowMilkSupply2017].
+For the infant, formula feeding increases the risk of diabetes, obesity, infectious respiratory and gastrointestinal diseases, and sudden infant death syndrome[cite:@riddleLowMilkSupply2017].
+In mothers, early weaning or never breastfeeding is associated with increased risk of breast and ovarian cancer, diabetes, and hypertension[cite:@riddleLowMilkSupply2017].
+
+Thus, we hypothesize that an intervention targeting insulin sensitivity may be effective in improving milk production in women with insulin-resistant conditions and delayed lactogenesis.
 
 * Review of The Literature
-A literature search with the string "obes* AND ((small* OR (low volume)) AND (testis OR testes))" on <2022-08-18 Thu> in the Google Scholar, PubMed, and Cochrane library databases was performed which didn't result in any study with exact aim[fn:1].
-For further investigation, a search with the same string in the Google search engine on <2022-08-18 Thu> led to a conference news article at Medscape mentioning a session from ENDO 2022 conference at <2022-06-12 Sun 11:00>.
-Full text of all documents reviewed thoroughly and carefully on <2022-08-19 Fri> to provide a research foundation in the topic.
+A literature search with the string "low milk production AND (obes* OR metabolic syndrome OR insulin resistance) AND metformin" on <2022-11-06 Sun> in the Google Scholar, PubMed, and Cochrane library databases was performed[fn:1].
+Full text of all documents reviewed thoroughly and carefully on <2022-11-07 Mon> to provide a research foundation in the topic.
 
-According to a study by Cannarella et al. on 264 male children and adolescents, testicular volume was lower and start of puberty was delayed in those with overweight or obesity compared with normal weight[cite:@ObesityLinkedSmaller].
-Recent Italian studies shown 14-23% of young men aged 18-19 had testicular hypotrophy without a clear reason[cite:@ObesityLinkedSmaller]!
-Obesity has been proposed to affect male fertility both directly and indirectly, by inducing alterations in sleep and sexual behavior, hormonal profile, scrotal temperature and semen parameters[cite:@hammoudImpactMaleObesity2008 page 899-901;@duplessisEffectObesitySperm2010 page 157-158;].
-Obese males have higher circulating estrogen level as a result of aromatization in the fat tissue, which can be an important mechanism for the hypoandrogenemia and altered sperm parameters[cite:@hammoudImpactMaleObesity2008 page 902;@duplessisEffectObesitySperm2010 page 158;].
+Riddle and Nommsen-Rivers in a case-control study on 401 breastfeeding medicine clinic visits <90 days postpartum of women who were highly motivated to breastfed,
+observed significantly greater odds of diabetes history in women with a low milk supply diagnosis compared with women with any other lactation difficulty[cite:@riddleCaseControlStudy2016].
+
+In an animal study by Rolls and Rowe on Lister rats,
+obese rats have difficulty initiating lactation;
+during lactation, they exhibit low milk production associated with poor pup growth and high pup mortality rates[cite:@rollsPregnancyLactationObese1982].
+
+According to a study by Thatcher and Jackson on 188 patients with polycystic ovary syndrome (PCOS) treated with metformin,
+of those women attempted to breastfeed, 78% succeeded and **only 3% failed due to poor milk production**[cite:@thatcherPregnancyOutcomeInfertile2006];
 
 [fn:1] Also, a literature search through SID, Civilica, and IranDoc with the Persian translation of the topic performed which didn't result in any enhancement.
 
 * Research Gaps
-As the literature review revealed, there is little established studies around the relationship of childhood obesity and testicular volume.
-Moreover, further longitudinal studies are needed to establish a possible cause-and-effect relationship[cite:@ObesityLinkedSmaller].
-Although there are evidences that imply weight reduction can correct hormonal imbalance in obese patients, but these data need to be complemented by studies showing the effect of weight loss on sperm parameters and fertility[cite:@hammoudImpactMaleObesity2008;@mongioiEffectivenessVeryLow2020;].
+As the literature review revealed, there is little established studies around the effect of metformin on different stages of lactogenesis.
 
 * Research Design and Methods
-Among various types of correlational research methods, we preferred to lead a cross-sectional study as it is the simplest, plausible, and fastest method to reveal a possible relationship between childhood obesity and testicular volume.
-A cross-sectional study is unable to reveal a cause-and-effect relationship; however, it provides initial indication and additional support for future studies.
+In human clinical practice, it is difficult and maybe catastrophic for both mother and children to withhold an absolutely beneficial therapy like metformin from mothers with insulin resistance conditions[cite:@shubPregestationalDiabetesPregnancy2020;@buchananGestationalDiabetesMellitus2012].
+Thus, a randomized controlled animal trial study is the most straightforward and valuable study to provide an evidence for causal inference of metformin and lactogenesis.
 
-Target research population are male children aged 8-11;
-Elementary schools in Shahroud, Semnan, Iran selected as the sampling frame.
-Sample collection will be done in a step-by-step manner as follows:
-1. Select a convenient school randomly;
-2. Schedule an interview with the school principals in order to arrange a session with parents to explain the research, encourage them to participate in the study, and distribute the informed consent form between them;
-3. If it is needed, we return to *step 1* to collect enough sample.
+*/Animals./* Female Wistar rats (n=15) will be purchased and housed in a temperature-controlled, 12h light-dark cycle environment with ad libitum access to water and food.
+Animal care and use will conform to institutional policies and guidelines.
 
-Due to lack of data, it is not possible to predict a reasonable and pragmatic sample size.
-To overcome this issue, we direct a pilot research to obtain enough data and derive the sample size prediction.
+*/Metabolic syndrome induction./* To induce the metabolic syndrome, all rats will be fed by a custom prepared high-carbohydrate, high-fat diet (carbohydrate, 52%; fat, 24%, 25% fructose in drinking water).
+By 16 weeks of feeding it will be expected the rats develop the metabolic syndrome[cite:@wongAnimalModelsMetabolic2016;@poudyalOliveLeafExtract2010;@poudyalComparisonPurpleCarrot2010;@panchalHighcarbohydrateHighfatDiet2011],
+but due to the diet-dependent essence of the insulin resistance[cite:@wongAnimalModelsMetabolic2016],
+to maintain the pathophysiological state, feeding will be continued during the entire course of the study.
+All rats will undergo timed-mating to get pregnant following development of the metabolic syndrome, and non-obese rats will be excluded from the study.
 
-We have considered the following sample inclusion criteria:
-+ Willingness to participate in the study;
-+ Not to be underweight.
-As the study isn't longitudinal, there is no applicable exclusion criteria.
+*/Experimental groups./* Rats will randomly divide into three experimental groups including no treatment (control group), metformin treatment during pregnancy (P group), metformin treatment during pregnancy and lactation (PL group).
 
-To collect data, research executives will do the following steps:
-1. Invite each participant to a free-charged pediatrician interview at the polyclinic of Khatam-al-Anbia hospital in Shahroud;
-2. Take relevant history, including:
-   + Identifying information;
-   + Contact information;
-   + Age;
-   + School;
-   # + Socio-economic status using which scale?;
-3. Perform relevant physical examination, including:
-   + Height;
-   + Weight using a standard and calibrated medical office weight scale;
-   + Waist circumference using superior border of Iliac crest as the landmark and placing measuring tape parallel to the floor around the abdomen[cite:@nationalheartPracticalGuideIdentification2000 figure 3].;
-   + Testicular volume using a standard Prader's orchidometer;
-4. Record the obtained data.
+*/Intervention./* Metformin (Reyhaneh pharmaceutical company, Isfahan, Iran) film coated tablets will be dissolved in water and administrated as 500mg/kg by oral dosing.
 
-**Data analysis**: data transformation methods will be used as needed; \alpha=0.05;
+*/Outcome measures./* The total weight of the litter suckled, at 12 days of age—before young rats open their eyes and begin to take solid food—as a convenient measure of milk production[cite:@falconerMilkProductionMice1947], will be measured using a sensitive calibrated weight scale.
+Because food will be unlimited, the measurement of milk production gives no indication of the efficiency of the rat in converting food into milk[cite:@falconerMilkProductionMice1947].
+To control litter size among mother rats, the size of all litters will reduce to the minimum achieved litter size and the excess will be excluded from the study.
+
+*/Exclusion criteria./* Rats may be excluded from study if any of the following criteria are meet: 1. Death of the mother rat at any point of the study, regardless of the cause 2. Remaining non-obese after 16 weeks of the metabolic syndrome induction 3. Death of pup(s) regardless of the cause during lactation.
+
+*/Limitations./* The metabolic syndrome classically and pathophysiologically defined as insulin resistance,
+caused systematically by incompletely understood defect in insulin action, mainly on post-receptor signaling pathways[cite:@roberth.eckelMetabolicSyndrome].
+Although increased fat mass (especially visceral fat) can decrease whole-body insulin sensitivity, neither obesity nor overfeeding doesn't seem to be the root cause of the syndrome[cite:@roberth.eckelMetabolicSyndrome].
+The animal model proposed in this study not only is not a perfect model for such a complex polygenic multifactorial syndrome, but also has a completely reverse pathophysiology.
+
+*/Statistical Analysis./* Data transformation methods will be used as needed; \alpha=0.05; An ANOVA test will be performed between experimental groups milk production to evaluate statistical difference.
 
 #+LATEX: \renewcommand{\arraystretch}{1.5}
 
 #+caption: Variables
 #+ATTR_LATEX: :float sideways :width \linewidth :align l|l|l|l|p{6cm}
-| Name                | Role        | Type                    | Unit (SI) | Measurement Method                                                                                                                                                                      |
-|---------------------+-------------+-------------------------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| BMI                 | Independent | Continuous quantitative | kg/m^2    | N/A                                                                                                                                                                                     |
-| Waist circumference | Independent | Continuous quantitative | cm        | Using superior border of Iliac crest as the landmark and placing measuring tape parallel to the floor around the abdomen[cite:@nationalheartPracticalGuideIdentification2000 figure 3]. |
-| Testicular volume   | Dependent   | Discrete quantitative   | mL        | Using a Prader's orchidometer.                                                                                                                                                          |
-| Age                 | Confounding | Continuous quantitative | year      | N/A                                                                                                                                                                                     |
-| School              | Contextual  | Nominal                 | N/A       | N/A                                                                                                                                                                                     |
+| Name               | Role      | Type                               | Unit (SI) | Measurement method                                                 |
+|--------------------+-----------+------------------------------------+-----------+--------------------------------------------------------------------|
+| Milk production    | Dependent | Continuous quantitative            | gram      | Measured as total weight of the litter suckled, at 12 days of age. |
+| Experimental group | Moderator | Nominal (control, P, and PL group) | N/A       | N/A                                                                |
 
-#+caption: conceptual framework
+#+caption: Conceptual framework
 #+ATTR_LATEX: :placement [H] :center :width \linewidth
 [[file:./images/conceptual-framework.png]]
 
+
 * Research Objectives
-The general aim of this study is to determine the possible relationship of childhood obesity and testicular volume. Specifically speaking:
-+ Measuring testicular volume in obese group.
-+ Measuring testicular volume in overweight group.
-+ Measuring testicular volume in normal weight group.
-+ Comparing testicular volume in obese, overweight, and normal weight groups.
+The general aim of this study is to determine the possible effect of metformin on milk production—specially on stage II lactogenesis—in metabolic syndrome animal model. Specifically speaking:
++ Measuring milk production in control group.
++ Measuring milk production in P group.
++ Measuring milk production in PL group.
++ Compare milk production in control, P, and PL groups.
 
 * Research Questions
-+ How much is testicular volume in obese group?
-+ How much is testicular volume in overweight group?
-+ How much is testicular volume in normal weight group?
-+ What is the difference of testicular volume in obese, overweight, and normal weight groups?
++ How much is milk production in control group?
++ How much is milk production in P group?
++ How much is milk production in PL group?
++ What are differences of milk production in experimental groups?
 
 * Research Hypothesis
-*H_0*: There is no difference between testicular volume of normal weight, overweight, and obese children.
+*H_0*: There is no statistically significant difference between experimental groups milk production.
 
 \noindent
-*H_1*: There are differences between testicular volume of normal weight, overweight, and obese children.
-
-* Research Innovation
-This is one of the first coherent cross-sectional study to determine possible relationship of childhood obesity and testicular volume in Iran.
+*H_1*: There are statistically significant differences between experimental groups milk production.
 
 * Beneficiaries
-+ Physicians
-+ General population
-+ Researchers in other disciplines
-+ Academic organizations
-+ Ministry of Health and Medical Education of Iran
+Physicians, general population, researchers in other disciplines, academic organizations, ministry of health and medical education of Iran.
 
 * Conflicts of Interest
-No conflict of interest was declared.
+The authors have no conflict of interest.
 
 * Keywords
-Pediatric, child health, children's health, child well-being,
-obesity, overweight,
-male,
-infertility, sub-fertility, sterility,
-testicular volume.
+Endocrinology, obestetrics, gynecology, women's health, infant's health,
+lactation, lactogenesis, mammogenesis, low milk production,
+metabolic syndrome, insulin resistance, obesity, overweight
+metformin.
 
 * Bibliography
 #+LATEX: \indent
